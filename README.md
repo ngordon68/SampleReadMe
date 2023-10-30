@@ -1,11 +1,12 @@
-# FireChats
+# App Name or Project goes here
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/299dbed9-0794-4c75-aa20-a87df14230a4">
+project logo goes here if you want. completely optional
 
 # 01 OverView
-An IMessage app that you send a debatable topic to the chat and the members of the chat can tap to vote agree or disagree with a corresponding color. You can also send the debatable topic to social media as well.
+App Statement or project overview goes here
 
 
-## 
+## App Screen Shots go below
 
 
  <table>
@@ -48,11 +49,6 @@ An IMessage app that you send a debatable topic to the chat and the members of t
 # 03 Skills
 Swift, Swift UI, XCode, Figma, Sketch.
 Messages, AVKit, LottieFiles, UIKit
-
-
-
-
-
 
 # 04 Project Timeline
 
