@@ -1,10 +1,10 @@
 # AppName or Project name goes here
 
-suggested using the logo for this section or to keep blank
+
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/299dbed9-0794-4c75-aa20-a87df14230a4">
 
 # 01 OverView
-An IMessage app that you send a debatable topic to the chat and the members of the chat can tap to vote agree or disagree with a corresponding color. You can also send the debatable topic to social media as well.
+App Statement or project overview goes here. 
 
 
 ## 
